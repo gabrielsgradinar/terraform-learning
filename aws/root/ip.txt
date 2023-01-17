@@ -1,0 +1,5 @@
+Instance 35.173.221.197 created !
+Instance 35.173.221.197 destroyed !
+Instance 54.236.51.149 created !
+Instance 3.91.145.168 created !
+Instance 3.91.145.168 destroyed !
